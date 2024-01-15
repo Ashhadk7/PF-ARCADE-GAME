@@ -4,7 +4,6 @@
 #include <conio.h>
 #include <time.h>
 #include <string.h>
-
 #define WIDTH 40
 #define HEIGHT 20
 #define MAX_FOOD 6
