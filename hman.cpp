@@ -20,7 +20,7 @@ void hangmanPrint(int i){
 		    printf("\t\t\t\t\t                   |___/  \n");
 			printf("\n\n\n\t\t\t\t\tRemaining Lives: \3 \3 \3 \3 \3 \3  ");
 			SetConsoleTextAttribute(aConsole, 12);
-            printf("\t\t\t   ++----++\n");
+            printf("\t\t\t\t   ++----++\n");
 			printf("\t\t\t\t\t\t\t\t\t\t\t\t   |     ||\n");
 			printf("\t\t\t\t\t\t\t\t\t\t\t\t         ||\n");
 			printf("\t\t\t\t\t\t\t\t\t\t\t\t         ||\n");
@@ -41,7 +41,7 @@ void hangmanPrint(int i){
 		    printf("\t\t\t\t\t                   |___/  \n");
 			printf("\n\n\n\t\t\t\t\tRemaining Lives: \3 \3 \3 \3 \3  ");
 			SetConsoleTextAttribute(aConsole, 12);
-            printf("\t\t\t   ++----++\n");
+            printf("\t\t\t\t   ++----++\n");
 			printf("\t\t\t\t\t\t\t\t\t\t\t\t   |     ||\n");
 			printf("\t\t\t\t\t\t\t\t\t\t\t\t   O     ||\n");
 			printf("\t\t\t\t\t\t\t\t\t\t\t\t         ||\n");
@@ -107,7 +107,7 @@ void hangmanPrint(int i){
 			SetConsoleTextAttribute(aConsole, 10);
 			printf("\n\n\n\t\t\t\t\tRemaining Lives: \3 \3  ");
 			SetConsoleTextAttribute(aConsole, 12);	
-            printf("\t\t\t\t   ++----++\n");
+            printf("\t\t\t\t\t   ++----++\n");
 			printf("\t\t\t\t\t\t\t\t\t\t\t\t   |     ||\n");
 			printf("\t\t\t\t\t\t\t\t\t\t\t\t   O     ||\n");
 			printf("\t\t\t\t\t\t\t\t\t\t\t\t  /|\\    ||\n");
